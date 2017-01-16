@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Test --no-ff mode merge.
 Test ff mode merge.
+Issue issue-101.
